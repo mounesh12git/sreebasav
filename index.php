@@ -503,12 +503,12 @@
         document.getElementById("downloadBtn").addEventListener("click", function() {
             // Trigger file download
             const link = document.createElement("a");
-            link.href = "CPSSN 17th_GB_Book_2026.pdf"; // Replace with your file URL
-            link.download = "CPSSN 17th_GB_Book_2026.pdf"; // Set the desired file name
+            link.href = "CPSSN17thGBBook-2026.pdf"; // Replace with your file URL
+            link.download = "CPSSN17thGBBook-2026.pdf"; // Set the desired file name
             link.click();
 
             // Open a new tab
-            window.open("CPSSN 17th_GB_Book_2026.pdf", "_blank"); // Replace with the URL you want to open
+            window.open("CPSSNN17thGBBook-2026.pdf", "_blank"); // Replace with the URL you want to open
         });
 </script>
     
