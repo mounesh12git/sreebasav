@@ -502,6 +502,7 @@
 <script>
         document.getElementById("downloadBtn").addEventListener("click", function() {
             // Trigger file download
+			
             const link = document.createElement("a");
             link.href = "CPSSN17thGBBook-2026.pdf"; // Replace with your file URL
             link.download = "CPSSN17thGBBook-2026.pdf"; // Set the desired file name
