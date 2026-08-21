@@ -10,7 +10,7 @@
 	<meta name="keywords" content="SRI CHANNABASAVA PATTINA SOUHARDA SAHAKARI SANGHA NI">
 	<meta name="author" content="SRI CHANNABASAVA PATTINA SOUHARDA SAHAKARI SANGHA NI">
 	<!-- Page Title -->
-    <title>SRI CHANNABASAVA PATTINA SOUHARDA SAHAKARI SANGHA NI</title>
+    <title>SRI 1CHANNABASAVA PATTINA SOUHARDA SAHAKARI SANGHA NI</title>
 	<!-- Favicon Icon -->
 	<link rel="shortcut icon" type="image/x-icon" href="CPSSSN Logo.jpg">
 	<!-- Google Fonts Css-->
