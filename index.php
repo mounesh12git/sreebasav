@@ -500,7 +500,7 @@
         </div>
     </div>
     <!-- Our Services Section End -->
-<script>
+<!--<scriptt>
         document.getElementById("downloadBtn").addEventListener("click", function() {
             // Trigger file download
 			
@@ -512,6 +512,19 @@
             // Open a new tab
             window.open("CPSSN17thGBBook-2026.pdf", "_blank"); // Replace with the URL you want to open
         });
+</script>-->
+		<script>
+document.getElementById("downloadBtn").addEventListener("click", function () {
+    const pdfUrl = "CPSSN17thGBBook-2026.pdf?v=20260821";
+
+    const link = document.createElement("a");
+    link.href = pdfUrl;
+    link.download = "CPSSN17thGBBook-2026.pdf";
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+});
 </script>
     
 <?php include('includes/footer.php'); ?>
